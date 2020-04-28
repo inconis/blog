@@ -5,9 +5,10 @@
  */
 
 module.exports = {
+  pathPrefix: "/blog",
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
+    title: `Riccardo's notebook`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://inconis.github.io/blog/`,
     home: {
