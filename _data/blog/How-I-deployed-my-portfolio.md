@@ -3,7 +3,7 @@ template: BlogPost
 path: '/How-I-deployed-my-portfolio'
 date: 2020-02-20T07:08:53.137Z
 title: 'How I deployed my portfolio'
-thumbnail: ''
+thumbnail: 'assets/MyPortfolio.png'
 metaDescription: 'How I deployed my portfolio'
 ---
 # 1. Introduction

@@ -19,8 +19,9 @@ export default () => (
         <div className="headline">{data.site.siteMetadata.home.title}</div>
         <div className="primary-content">
           <p>{data.site.siteMetadata.home.description}</p>
+          <p>I really hope that some notes can be useful to you :)</p>
         </div>
-        <Link to='../../' className="button -primary">Visit my Website &rarr;</Link>
+        <a href="../../" className="button -primary">Visit my Website &rarr;</a>
       </div>
     )}
   />
