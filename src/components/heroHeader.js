@@ -21,7 +21,7 @@ export default () => (
           <p>{data.site.siteMetadata.home.description}</p>
           <p>I really hope that some notes can be useful to you :)</p>
         </div>
-        <a href="../../" className="button -primary">Visit my Website &rarr;</a>
+        <a href="https://inconis.it/" target="_blank" className="button -primary">Visit my Website &rarr;</a>
       </div>
     )}
   />
