@@ -19,13 +19,7 @@ module.exports = {
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-tagmanager`,
-      options: {
-        id: "GTM-M3VJRLM",
-        includeInDevelopment: true,
-      },
-    },
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -58,18 +52,7 @@ module.exports = {
         trackingId: "UA-164743872-1",
         head: true,
       }
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#381696`,
-        display: `standalone`,
-        icon: "src/images/icon.png",
-      },
+    
     },
     `gatsby-plugin-sass`, 
     `gatsby-plugin-react-helmet`,
