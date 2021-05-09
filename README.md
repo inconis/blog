@@ -23,7 +23,7 @@ Instructions also available at W3Layouts [Delog Launch Article](https://w3layout
 * Once you hit "[Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/W3Layouts/gatsby-starter-delog)"
 * Connect Github
 * Enter Repository Name
-* And your site starts build process. After the build process your website is live
+* And your site starts build process. After the build process your website is live 
 
 ### Changing repositary URL for Netlify CMS access
 You need to change repo URL to your own `repo` at delog/static/admin/config.yml, for example `username/repo-name`
